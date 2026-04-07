@@ -1,0 +1,50 @@
+[
+  {
+    "event_id": "us-election-2028",
+    "title": "US Presidential Election Winner 2028",
+    "niche": "politics",
+    "question": "Who will win the 2028 US presidential election?",
+    "summary": "Polling remains volatile, but prediction-market pricing and macro sentiment both favor candidates with stronger fundraising and incumbent coalition support.",
+    "sources": [
+      "https://www.realclearpolitics.com/",
+      "https://projects.fivethirtyeight.com/polls/"
+    ],
+    "evidence_points": [
+      "Recent polling averages still show a tight race rather than a runaway favorite.",
+      "Fundraising strength and state-level organization continue to matter more than single-day headlines.",
+      "Late-breaking macro data can materially shift prediction-market pricing."
+    ]
+  },
+  {
+    "event_id": "nba-finals-2027",
+    "title": "NBA Finals Winner 2027",
+    "niche": "nba",
+    "question": "Which team will win the 2027 NBA Finals?",
+    "summary": "Rotation health, postseason shot quality, and matchup-specific defense drive the highest-information edge in this market.",
+    "sources": [
+      "https://www.basketball-reference.com/",
+      "https://www.nba.com/stats/"
+    ],
+    "evidence_points": [
+      "Healthy star usage and half-court offense remain leading signals in playoff series pricing.",
+      "Market mispricings often emerge after injury news before deeper lineup context is absorbed.",
+      "Teams with stronger transition defense tend to sustain value in seven-game series."
+    ]
+  },
+  {
+    "event_id": "hurricane-landfall",
+    "title": "Major Hurricane Landfall This Season",
+    "niche": "weather",
+    "question": "Will a major hurricane make landfall this season?",
+    "summary": "Sea-surface temperatures and storm-path conditions support an above-average risk profile, but landfall markets remain sensitive to track changes near resolution.",
+    "sources": [
+      "https://www.noaa.gov/",
+      "https://www.nhc.noaa.gov/"
+    ],
+    "evidence_points": [
+      "Warm water anomalies raise the background probability of stronger storms.",
+      "Track uncertainty compresses late and creates sharp repricing windows.",
+      "Seasonal basin activity does not always translate to landfall in populated regions."
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "trader_id": "poly_01",
+    "platform": "polymarket",
+    "display_name": "MacroBall",
+    "wallet": "0xA11CE",
+    "tags": ["momentum", "politics"],
+    "metadata": {"source": "sample_seed"},
+    "bets": [
+      {"event_id": "us-election-2028", "market_title": "US Election Winner", "niche": "politics", "predicted_side": "Candidate A", "confidence": 0.77, "stake": 1200, "pnl": 320, "won": true},
+      {"event_id": "fed-cut-september", "market_title": "Fed September Cut", "niche": "macro", "predicted_side": "Yes", "confidence": 0.63, "stake": 900, "pnl": 110, "won": true},
+      {"event_id": "nba-finals-2027", "market_title": "NBA Finals Winner", "niche": "nba", "predicted_side": "Team East", "confidence": 0.59, "stake": 650, "pnl": -100, "won": false},
+      {"event_id": "hurricane-landfall", "market_title": "Major Hurricane Landfall", "niche": "weather", "predicted_side": "No", "confidence": 0.72, "stake": 500, "pnl": 140, "won": true}
+    ]
+  },
+  {
+    "trader_id": "poly_02",
+    "platform": "polymarket",
+    "display_name": "CourtSideQuant",
+    "wallet": "0xB22CE",
+    "tags": ["sports", "specialist"],
+    "metadata": {"source": "sample_seed"},
+    "bets": [
+      {"event_id": "nba-finals-2027", "market_title": "NBA Finals Winner", "niche": "nba", "predicted_side": "Team West", "confidence": 0.81, "stake": 1300, "pnl": 410, "won": true},
+      {"event_id": "mvp-race", "market_title": "NBA MVP", "niche": "nba", "predicted_side": "Player X", "confidence": 0.68, "stake": 800, "pnl": 170, "won": true},
+      {"event_id": "us-election-2028", "market_title": "US Election Winner", "niche": "politics", "predicted_side": "Candidate B", "confidence": 0.51, "stake": 450, "pnl": -120, "won": false},
+      {"event_id": "wnba-title", "market_title": "WNBA Champion", "niche": "sports", "predicted_side": "Team North", "confidence": 0.66, "stake": 550, "pnl": 80, "won": true}
+    ]
+  },
+  {
+    "trader_id": "poly_03",
+    "platform": "polymarket",
+    "display_name": "StormSignal",
+    "wallet": "0xC33CE",
+    "tags": ["weather", "data-driven"],
+    "metadata": {"source": "sample_seed"},
+    "bets": [
+      {"event_id": "hurricane-landfall", "market_title": "Major Hurricane Landfall", "niche": "weather", "predicted_side": "Yes", "confidence": 0.75, "stake": 1000, "pnl": 250, "won": true},
+      {"event_id": "heatwave-july", "market_title": "US Heatwave Severity", "niche": "weather", "predicted_side": "Above normal", "confidence": 0.71, "stake": 780, "pnl": 200, "won": true},
+      {"event_id": "fed-cut-september", "market_title": "Fed September Cut", "niche": "macro", "predicted_side": "No", "confidence": 0.54, "stake": 600, "pnl": -90, "won": false},
+      {"event_id": "el-nino", "market_title": "El Nino intensity", "niche": "weather", "predicted_side": "Strong", "confidence": 0.69, "stake": 520, "pnl": 100, "won": true}
+    ]
+  },
+  {
+    "trader_id": "kalshi_01",
+    "platform": "kalshi",
+    "display_name": "CapitolEdge",
+    "wallet": "kal_991",
+    "tags": ["politics", "event trader"],
+    "metadata": {"source": "sample_seed"},
+    "bets": [
+      {"event_id": "us-election-2028", "market_title": "US Election Winner", "niche": "politics", "predicted_side": "Candidate A", "confidence": 0.79, "stake": 1500, "pnl": 420, "won": true},
+      {"event_id": "senate-control", "market_title": "Senate Control", "niche": "politics", "predicted_side": "Party Blue", "confidence": 0.74, "stake": 1100, "pnl": 260, "won": true},
+      {"event_id": "cpi-surprise", "market_title": "CPI Above Consensus", "niche": "macro", "predicted_side": "No", "confidence": 0.65, "stake": 850, "pnl": 130, "won": true},
+      {"event_id": "nba-finals-2027", "market_title": "NBA Finals Winner", "niche": "nba", "predicted_side": "Team East", "confidence": 0.48, "stake": 400, "pnl": -80, "won": false}
+    ]
+  },
+  {
+    "trader_id": "kalshi_02",
+    "platform": "kalshi",
+    "display_name": "ClimateTape",
+    "wallet": "kal_553",
+    "tags": ["weather", "macro"],
+    "metadata": {"source": "sample_seed"},
+    "bets": [
+      {"event_id": "hurricane-landfall", "market_title": "Major Hurricane Landfall", "niche": "weather", "predicted_side": "Yes", "confidence": 0.73, "stake": 1200, "pnl": 260, "won": true},
+      {"event_id": "heatwave-july", "market_title": "US Heatwave Severity", "niche": "weather", "predicted_side": "Above normal", "confidence": 0.76, "stake": 950, "pnl": 210, "won": true},
+      {"event_id": "us-election-2028", "market_title": "US Election Winner", "niche": "politics", "predicted_side": "Candidate B", "confidence": 0.43, "stake": 380, "pnl": -95, "won": false},
+      {"event_id": "el-nino", "market_title": "El Nino intensity", "niche": "weather", "predicted_side": "Strong", "confidence": 0.67, "stake": 720, "pnl": 120, "won": true}
+    ]
+  },
+  {
+    "trader_id": "kalshi_03",
+    "platform": "kalshi",
+    "display_name": "MarketMeteor",
+    "wallet": "kal_104",
+    "tags": ["sports", "cross-market"],
+    "metadata": {"source": "sample_seed"},
+    "bets": [
+      {"event_id": "nba-finals-2027", "market_title": "NBA Finals Winner", "niche": "nba", "predicted_side": "Team West", "confidence": 0.69, "stake": 900, "pnl": 190, "won": true},
+      {"event_id": "wnba-title", "market_title": "WNBA Champion", "niche": "sports", "predicted_side": "Team South", "confidence": 0.64, "stake": 640, "pnl": 120, "won": true},
+      {"event_id": "us-election-2028", "market_title": "US Election Winner", "niche": "politics", "predicted_side": "Candidate A", "confidence": 0.58, "stake": 540, "pnl": 90, "won": true},
+      {"event_id": "fed-cut-september", "market_title": "Fed September Cut", "niche": "macro", "predicted_side": "Yes", "confidence": 0.52, "stake": 530, "pnl": -70, "won": false}
+    ]
+  }
+]

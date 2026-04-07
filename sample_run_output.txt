@@ -1,0 +1,18 @@
+Event: US Presidential Election Winner 2028 (politics)
+Question: Who will win the 2028 US presidential election?
+Research summary: Polling remains volatile, but prediction-market pricing and macro sentiment both favor candidates with stronger fundraising and incumbent coalition support.
+
+Top Polymarket traders:
+- CourtSideQuant | score=0.52 | roi=0.17 | win_rate=0.75 | niches=nba, politics, sports
+- StormSignal | score=0.52 | roi=0.16 | win_rate=0.75 | niches=weather, macro
+- MacroBall | score=0.52 | roi=0.14 | win_rate=0.75 | niches=politics, macro, nba
+
+Top Kalshi traders:
+- CapitolEdge | score=0.53 | roi=0.19 | win_rate=0.75 | niches=politics, macro, nba
+- ClimateTape | score=0.52 | roi=0.15 | win_rate=0.75 | niches=weather, politics
+- MarketMeteor | score=0.52 | roi=0.13 | win_rate=0.75 | niches=nba, sports, politics
+
+Recommendation:
+- Traders to copy: CapitolEdge, CourtSideQuant, ClimateTape
+- Rationale: Top copy-trading candidates are ranked by niche fit, learning score, consistency score, and ROI. CapitolEdge leads for politics because the trader shows learning=0.53, consistency=0.53, ROI=0.19, and niches=politics, macro, nba. CourtSideQuant is the next best copy candidate with win_rate=0.75 and niches=nba, politics, sports. Question asked: Which traders should we copy for the election winner market? Research summary: Polling remains volatile, but prediction-market pricing and macro sentiment both favor candidates with stronger fundraising and incumbent coalition support.
+- Risk flags: Binary prediction markets can reprice sharply near resolution.
